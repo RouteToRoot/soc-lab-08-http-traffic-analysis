@@ -72,7 +72,13 @@ This lab demonstrates how analysts inspect web traffic and build foundational sk
 
 ## Evidence
 
-(To be completed)
+All screenshots are stored in the repository and demonstrate HTTP request generation and packet-level analysis.
+
+![HTTP Capture](screenshots/http-capture.png)
+
+![HTTP Request Terminal](screenshots/http-request-terminal.png)
+
+![HTTP Packet Analysis](screenshots/http-packet-analysis.png)
 
 ---
 
