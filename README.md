@@ -2,14 +2,15 @@
 
 ## Table of Contents
 1. [Executive Summary](#executive-summary)
-2. [Lab Objectives](#lab-objectives)
-3. [Environment Overview](#environment-overview)
-4. [Detection Workflow](#detection-workflow)
-5. [Traffic Analysis](#traffic-analysis)
-6. [Detection Engineering Insights](#detection-engineering-insights)
-7. [Evidence](#evidence)
-8. [Conclusions](#conclusions)
-9. [Next Steps](#next-steps)
+2. [Incident Ticket (ServiceNow Simulation)](#incident-ticket-servicenow-simulation)
+3. [Lab Objectives](#lab-objectives)
+4. [Environment Overview](#environment-overview)
+5. [Detection Workflow](#detection-workflow)
+6. [Traffic Analysis](#traffic-analysis)
+7. [Detection Engineering Insights](#detection-engineering-insights)
+8. [Evidence](#evidence)
+9. [Conclusions](#conclusions)
+10. [Next Steps](#next-steps)
 
 ---
 
@@ -105,12 +106,10 @@ Closed (No Threat Identified)
 **Operating System:** Ubuntu Linux (Virtual Machine)
 
 **Tools Used**
-
 - Wireshark  
 - curl  
 
 **Network Setup**
-
 - Localhost and external web traffic  
 - Single VM environment  
 
